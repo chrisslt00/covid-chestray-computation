@@ -1,0 +1,20 @@
+current epoch 0 loss: 60.210487365722656
+test accuracy:  0.7925696594427245
+current epoch 1 loss: 31.426382064819336
+test accuracy:  0.7832817337461301
+current epoch 2 loss: 24.348711013793945
+test accuracy:  0.826625386996904
+current epoch 3 loss: 22.040809631347656
+test accuracy:  0.8374613003095975
+current epoch 4 loss: 22.783674240112305
+test accuracy:  0.7430340557275542
+current epoch 5 loss: 21.71472930908203
+test accuracy:  0.7430340557275542
+current epoch 6 loss: 18.362390518188477
+test accuracy:  0.751437417072092
+current epoch 7 loss: 17.844690322875977
+test accuracy:  0.7681888544891641
+current epoch 8 loss: 17.834623336791992
+test accuracy:  0.7867217062263502
+current epoch 9 loss: 16.277681350708008
+test accuracy:  0.7854489164086688

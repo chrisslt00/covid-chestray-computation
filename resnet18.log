@@ -1,0 +1,160 @@
+Epoch [0]:
+Average Training Accuracy = 0.8659999966621399
+  Training Covid Correct Prediction = 376, Total Covid Samples = 424, Covid Training Acc = 0.8867924809455872
+  Training Normal Correct Prediction = 507, Total Normal Samples = 572, Normal Training Acc = 0.8863636255264282
+  Training Virus Correct Prediction = 416, Total Virus Samples = 504, Virus Training Acc = 0.7460317611694336
+Current epoch 0 total training loss: 35.5823974609375
+
+
+Average Test Accuracy = 0.6718266253869969
+  Testing Covid Correct Prediction = 107, Total Covid Samples = 112, Covid Testing Acc = 0.9553571939468384
+  Testing Normal Correct Prediction = 1, Total Normal Samples = 96, Normal Testing Acc = 0.010416666977107525
+  Testing Virus Correct Prediction = 109, Total Virus Samples = 115, Virus Testing Acc = 0.9304347634315491
+
+
+
+
+Epoch [1]:
+Average Training Accuracy = 0.9306666851043701
+  Training Covid Correct Prediction = 404, Total Covid Samples = 424, Covid Training Acc = 0.9528301954269409
+  Training Normal Correct Prediction = 537, Total Normal Samples = 572, Normal Training Acc = 0.938811182975769
+  Training Virus Correct Prediction = 455, Total Virus Samples = 504, Virus Training Acc = 0.8015873432159424
+Current epoch 1 total training loss: 19.210296630859375
+
+
+Average Test Accuracy = 0.7647058823529411
+  Testing Covid Correct Prediction = 108, Total Covid Samples = 112, Covid Testing Acc = 0.9642857313156128
+  Testing Normal Correct Prediction = 65, Total Normal Samples = 96, Normal Testing Acc = 0.6770833730697632
+  Testing Virus Correct Prediction = 104, Total Virus Samples = 115, Virus Testing Acc = 0.9391303658485413
+
+
+
+
+Epoch [2]:
+Average Training Accuracy = 0.9466666579246521
+  Training Covid Correct Prediction = 415, Total Covid Samples = 424, Covid Training Acc = 0.9787735939025879
+  Training Normal Correct Prediction = 540, Total Normal Samples = 572, Normal Training Acc = 0.9440559148788452
+  Training Virus Correct Prediction = 465, Total Virus Samples = 504, Virus Training Acc = 0.8234127163887024
+Current epoch 2 total training loss: 14.42573356628418
+
+
+Average Test Accuracy = 0.7905056759545923
+  Testing Covid Correct Prediction = 104, Total Covid Samples = 112, Covid Testing Acc = 0.9285714626312256
+  Testing Normal Correct Prediction = 95, Total Normal Samples = 96, Normal Testing Acc = 0.9895833730697632
+  Testing Virus Correct Prediction = 73, Total Virus Samples = 115, Virus Testing Acc = 0.9043477773666382
+
+
+
+
+Epoch [3]:
+Average Training Accuracy = 0.9493333101272583
+  Training Covid Correct Prediction = 414, Total Covid Samples = 424, Covid Training Acc = 0.9764150977134705
+  Training Normal Correct Prediction = 539, Total Normal Samples = 572, Normal Training Acc = 0.942307710647583
+  Training Virus Correct Prediction = 471, Total Virus Samples = 504, Virus Training Acc = 0.8214285969734192
+Current epoch 3 total training loss: 13.006074905395508
+
+
+Average Test Accuracy = 0.8095975232198143
+  Testing Covid Correct Prediction = 109, Total Covid Samples = 112, Covid Testing Acc = 0.973214328289032
+  Testing Normal Correct Prediction = 66, Total Normal Samples = 96, Normal Testing Acc = 0.6875
+  Testing Virus Correct Prediction = 105, Total Virus Samples = 115, Virus Testing Acc = 0.9478260278701782
+
+
+
+
+Epoch [4]:
+Average Training Accuracy = 0.9433333277702332
+  Training Covid Correct Prediction = 408, Total Covid Samples = 424, Covid Training Acc = 0.9622641801834106
+  Training Normal Correct Prediction = 539, Total Normal Samples = 572, Normal Training Acc = 0.942307710647583
+  Training Virus Correct Prediction = 468, Total Virus Samples = 504, Virus Training Acc = 0.80952388048172
+Current epoch 4 total training loss: 14.65085220336914
+
+
+Average Test Accuracy = 0.8371517027863777
+  Testing Covid Correct Prediction = 111, Total Covid Samples = 112, Covid Testing Acc = 0.9910714626312256
+  Testing Normal Correct Prediction = 92, Total Normal Samples = 96, Normal Testing Acc = 0.9583333730697632
+  Testing Virus Correct Prediction = 103, Total Virus Samples = 115, Virus Testing Acc = 0.9652173519134521
+
+
+
+
+Epoch [5]:
+Average Training Accuracy = 0.9673333168029785
+  Training Covid Correct Prediction = 419, Total Covid Samples = 424, Covid Training Acc = 0.9882075786590576
+  Training Normal Correct Prediction = 549, Total Normal Samples = 572, Normal Training Acc = 0.9597901701927185
+  Training Virus Correct Prediction = 483, Total Virus Samples = 504, Virus Training Acc = 0.83134925365448
+Current epoch 5 total training loss: 8.975505828857422
+
+
+Average Test Accuracy = 0.8513931888544891
+  Testing Covid Correct Prediction = 111, Total Covid Samples = 112, Covid Testing Acc = 0.9910714626312256
+  Testing Normal Correct Prediction = 75, Total Normal Samples = 96, Normal Testing Acc = 0.78125
+  Testing Virus Correct Prediction = 112, Total Virus Samples = 115, Virus Testing Acc = 0.9652173519134521
+
+
+
+
+Epoch [6]:
+Average Training Accuracy = 0.9633333086967468
+  Training Covid Correct Prediction = 410, Total Covid Samples = 424, Covid Training Acc = 0.9669811725616455
+  Training Normal Correct Prediction = 553, Total Normal Samples = 572, Normal Training Acc = 0.9667832255363464
+  Training Virus Correct Prediction = 482, Total Virus Samples = 504, Virus Training Acc = 0.8134921193122864
+Current epoch 6 total training loss: 10.389921188354492
+
+
+Average Test Accuracy = 0.8474126492702344
+  Testing Covid Correct Prediction = 111, Total Covid Samples = 112, Covid Testing Acc = 0.9910714626312256
+  Testing Normal Correct Prediction = 45, Total Normal Samples = 96, Normal Testing Acc = 0.46875
+  Testing Virus Correct Prediction = 110, Total Virus Samples = 115, Virus Testing Acc = 0.9652173519134521
+
+
+
+
+Epoch [7]:
+Average Training Accuracy = 0.9760000109672546
+  Training Covid Correct Prediction = 418, Total Covid Samples = 424, Covid Training Acc = 0.9858490824699402
+  Training Normal Correct Prediction = 557, Total Normal Samples = 572, Normal Training Acc = 0.9737762212753296
+  Training Virus Correct Prediction = 489, Total Virus Samples = 504, Virus Training Acc = 0.8293651342391968
+Current epoch 7 total training loss: 7.227699279785156
+
+
+Average Test Accuracy = 0.8537151702786377
+  Testing Covid Correct Prediction = 107, Total Covid Samples = 112, Covid Testing Acc = 0.9553571939468384
+  Testing Normal Correct Prediction = 71, Total Normal Samples = 96, Normal Testing Acc = 0.7395833730697632
+  Testing Virus Correct Prediction = 112, Total Virus Samples = 115, Virus Testing Acc = 0.9304347634315491
+
+
+
+
+Epoch [8]:
+Average Training Accuracy = 0.9873332977294922
+  Training Covid Correct Prediction = 420, Total Covid Samples = 424, Covid Training Acc = 0.990566074848175
+  Training Normal Correct Prediction = 567, Total Normal Samples = 572, Normal Training Acc = 0.9912587404251099
+  Training Virus Correct Prediction = 494, Total Virus Samples = 504, Virus Training Acc = 0.8333333730697632
+Current epoch 8 total training loss: 4.0524163246154785
+
+
+Average Test Accuracy = 0.8582731338149295
+  Testing Covid Correct Prediction = 112, Total Covid Samples = 112, Covid Testing Acc = 1.0
+  Testing Normal Correct Prediction = 74, Total Normal Samples = 96, Normal Testing Acc = 0.7708333730697632
+  Testing Virus Correct Prediction = 103, Total Virus Samples = 115, Virus Testing Acc = 0.9739130139350891
+
+
+
+
+Epoch [9]:
+Average Training Accuracy = 0.9626666307449341
+  Training Covid Correct Prediction = 414, Total Covid Samples = 424, Covid Training Acc = 0.9764150977134705
+  Training Normal Correct Prediction = 546, Total Normal Samples = 572, Normal Training Acc = 0.9545454382896423
+  Training Virus Correct Prediction = 484, Total Virus Samples = 504, Virus Training Acc = 0.8214285969734192
+Current epoch 9 total training loss: 10.4418306350708
+
+
+Average Test Accuracy = 0.8647058823529412
+  Testing Covid Correct Prediction = 102, Total Covid Samples = 112, Covid Testing Acc = 0.910714328289032
+  Testing Normal Correct Prediction = 90, Total Normal Samples = 96, Normal Testing Acc = 0.9375
+  Testing Virus Correct Prediction = 106, Total Virus Samples = 115, Virus Testing Acc = 0.8869564533233643
+
+
+
+
